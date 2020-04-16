@@ -1,6 +1,6 @@
-# RDA Hackathon on maDMPs
+# RDA Hackathon on maDMPs #
 
-## Overview
+## Overview ##
 We would like to invite you to a hackathon on machine-actionable Data Management Plans (maDMPs).  
 
 The hackathon is open for everyone. As well as software developers we are looking for anyone with an interest in data - no technical knowledge is necessary - you might help with ideas generation, user testing, documentation etc.
@@ -15,8 +15,8 @@ The goal is to build integrations and test the common standard for [maDMPs](http
 
 The hackathon will take place on 27-28 May 2020. Registration of teams and topics starts on 20 April. Open presentation of results will take place on 29 May.
   
-To receive further notifications, please register here (if you haven’t done so):
-https://forms.gle/5LHPvKMuFE4bxjN3A 
+To receive further notifications, please register [here](https://forms.gle/5LHPvKMuFE4bxjN3A ) (if you haven’t done so):
+
 
 
 ## Important Dates ##
