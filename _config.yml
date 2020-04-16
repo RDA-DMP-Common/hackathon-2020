@@ -1,1 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
+markdown: kramdown
+title: RDA hackathon on maDMPs 2020
+description: RDA hackathon on maDMPs 2020
