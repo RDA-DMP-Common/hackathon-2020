@@ -6,12 +6,12 @@ We would like to invite you to a hackathon on machine-actionable Data Management
 The hackathon is open for everyone. As well as software developers we are looking for anyone with an interest in data - no technical knowledge is necessary - you might help with ideas generation, user testing, documentation etc.
 
 The goal is to build integrations and test the common standard for [maDMPs](https://doi.org/10.15497/rda00039 ) that is an official output of the [RDA DMP Common Standards WG](https://www.rd-alliance.org/group/dmp-common-standards-wg/outcomes/rda-dmp-common-standard-machine-actionable-data-management ). Participants of the hackathon will decide which topics to work on,  but the primary goals of the hackathon are:
-<ul>
-<li> Integration of DMP tools, e.g. exchanging maDMPs between DMP tools
-<li> Other integrations, e.g. exchange of maDMPs between other services, such as repositories, funder systems, CRIS, etc.
-<li> Development of maDMP examples, e.g. to be later used for testing
-<li> Mapping of maDMPs to funder templates, e.g. Science Europe, NSF, etc. 
-</ul>
+
+* Integration of DMP tools, e.g. exchanging maDMPs between DMP tools
+* Other integrations, e.g. exchange of maDMPs between other services, such as repositories, funder systems, CRIS, etc.
+* Development of maDMP examples, e.g. to be later used for testing
+* Mapping of maDMPs to funder templates, e.g. Science Europe, NSF, etc. 
+
 
 The hackathon will take place on 27-28 May 2020. Registration of teams and topics starts on 20 April. Open presentation of results will take place on 29 May.
   
@@ -20,12 +20,12 @@ To receive further notifications, please register [here](https://forms.gle/5LHPv
 
 
 ## Important Dates 
-<ul>
-  <li> Registration of topics and groups: 20 April - 25 May
-  <li> Hackathon: 27-28 May
-  <li> Presentation of results: 29 May
-  <li> Community voting: 29 May – 13 June
-</ul>
+
+* Registration of topics and groups: 20 April - 25 May
+* Hackathon: 27-28 May
+* Presentation of results: 29 May
+* Community voting: 29 May – 13 June
+
 
 
 ## Outline of the hackathon 
