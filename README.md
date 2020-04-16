@@ -15,7 +15,7 @@ The goal is to build integrations and test the common standard for [maDMPs](http
 
 The hackathon will take place on 27-28 May 2020. Registration of teams and topics starts on 20 April. Open presentation of results will take place on 29 May.
   
-To receive further notifications, please register [here](https://forms.gle/5LHPvKMuFE4bxjN3A ) (if you haven’t done so):
+To receive further notifications, please register [here](https://forms.gle/5LHPvKMuFE4bxjN3A ) (if you haven’t done so yet).
 
 
 
