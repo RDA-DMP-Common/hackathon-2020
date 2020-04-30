@@ -49,7 +49,7 @@ Summarise what you managed to create. Provide links to resources, demos, screenc
 Present your result in an online videoconference call on 29th May. Everyone will be free to participate as the viewer.
 
 ### 7.       Vote 
-Community will have two weeks to vote for the best and most interesting submissions. 
+Community will have two weeks to vote for the best and most interesting submissions. The winners will recieve a small prize. 
  
 ## Communication 
 
@@ -59,6 +59,8 @@ Platform | Purpose
 [Slack](https://join.slack.com/t/madmp/shared_invite/zt-dpmok0rp-rXornZoHPxJ8KFoEwkQo8Q) | Ad-hoc communication between all participants 
 [Zoom](TODO) | Ad-hoc communication between all participants  and presentation of results
 
+## Prizes
+There will be prizes for the best/most interesting solutions. Details will be provided. 
 
 ## Useful Resources
 [RDA DMP Common Standard specification, FAQs, JSON schema, examples, etc.](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard)
