@@ -62,6 +62,9 @@ Platform | Purpose
 ## Prizes
 There will be prizes for the best/most interesting solutions. Details will be provided. 
 
+## Proceedings
+We will publish a report in which we will describe developements made by each participating group. Structure of the document and level of details to be determined by interested hackathon participants.
+
 ## Useful Resources
 [RDA DMP Common Standard specification, FAQs, JSON schema, examples, etc.](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard)
 
