@@ -55,19 +55,19 @@ Community will have two weeks to vote for the best and most interesting submissi
 ### Day 1 - 28 May 2020 
 * Kick-off meeting 
 * Organizational details and a chance to create last minute groups
-* via Zoom at 9:00am BST, 10:00am CEST, 11:00am EEST, 5:00pm JST, 5:30pm ACST, 6:00pm AEST
+* [via Zoom at 9:00am BST, 10:00am CEST, 11:00am EEST, 5:00pm JST, 5:30pm ACST, 6:00pm AEST](https://tuwien.zoom.us/j/97292311649?pwd=eTZHS3dudG8ySHlmZCthTjZzL0hBZz09)
 
 ### Day 2 - 29 May 2020
 * Status update meeting 
 * Short updates from each registered group on the progress and challenges
-* via Zoom at 4:00am ADT, 5:00am PDT, 8:00am EDT, 1:00pm BST, 2:00pm CEST, 3:00pm EEST, 9:00pm JST, 9:30pm ACST, 10:00pm AEST
+* [via Zoom at 4:00am ADT, 5:00am PDT, 8:00am EDT, 1:00pm BST, 2:00pm CEST, 3:00pm EEST, 9:00pm JST, 9:30pm ACST, 10:00pm AEST](https://us02web.zoom.us/j/89093874164?pwd=L282Z1pwbXBXUncwb0RaSHc3dmZOUT09)
 
 
 ### Day 3 - 30 May 2020
 * Grand finale 
 * Presentation of results by each group
 * Discussion 
-* via Zoom at 4:00am ADT, 5:00am PDT, 8:00am EDT, 1:00pm BST, 2:00pm CEST, 3:00pm EEST, 9:00pm JST, 9:30pm ACST, 10:00pm AEST
+* [via Zoom at 4:00am ADT, 5:00am PDT, 8:00am EDT, 1:00pm BST, 2:00pm CEST, 3:00pm EEST, 9:00pm JST, 9:30pm ACST, 10:00pm AEST](https://us02web.zoom.us/j/83129062602?pwd=bXJidHVSTVV0OUxqSk9lOVhyUFpNUT09)
 
 ## Communication 
 
@@ -75,7 +75,7 @@ Platform | Purpose
 ---------|----------
 [GitHub issues](https://github.com/RDA-DMP-Common/hackathon-2020/issues) | Define topics before the hackathon starts
 [Slack](https://join.slack.com/t/madmp/shared_invite/zt-dpmok0rp-rXornZoHPxJ8KFoEwkQo8Q) | Ad-hoc communication between all participants 
-[Zoom](TODO) | Ad-hoc communication between all participants  and presentation of results
+[Zoom](See individual links) | Ad-hoc communication between all participants  and presentation of results
 
 ## Prizes
 There will be prizes for the best/most interesting solutions. Details will be provided. 
