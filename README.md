@@ -52,18 +52,18 @@ Present your result in an online videoconference call on 29th May. Everyone will
 Community will have two weeks to vote for the best and most interesting submissions. The winners will recieve a small prize. 
 
 ## Agenda
-### Day 1 - 28 May 2020 
+### Day 1 - 27 May 2020 
 * Kick-off meeting 
 * Organizational details and a chance to create last minute groups
 * [via Zoom at 9:00am BST, 10:00am CEST, 11:00am EEST, 5:00pm JST, 5:30pm ACST, 6:00pm AEST](https://tuwien.zoom.us/j/97292311649?pwd=eTZHS3dudG8ySHlmZCthTjZzL0hBZz09)
 
-### Day 2 - 29 May 2020
+### Day 2 - 28 May 2020
 * Status update meeting 
 * Short updates from each registered group on the progress and challenges
 * [via Zoom at 4:00am ADT, 5:00am PDT, 8:00am EDT, 1:00pm BST, 2:00pm CEST, 3:00pm EEST, 9:00pm JST, 9:30pm ACST, 10:00pm AEST](https://us02web.zoom.us/j/89093874164?pwd=L282Z1pwbXBXUncwb0RaSHc3dmZOUT09)
 
 
-### Day 3 - 30 May 2020
+### Day 3 - 29 May 2020
 * Grand finale 
 * Presentation of results by each group
 * Discussion 
