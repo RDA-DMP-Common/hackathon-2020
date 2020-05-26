@@ -75,7 +75,8 @@ Platform | Purpose
 ---------|----------
 [GitHub issues](https://github.com/RDA-DMP-Common/hackathon-2020/issues) | Define topics before the hackathon starts
 [Slack](https://join.slack.com/t/madmp/shared_invite/zt-dpmok0rp-rXornZoHPxJ8KFoEwkQo8Q) | Ad-hoc communication between all participants 
-[Zoom](See individual links) | Ad-hoc communication between all participants  and presentation of results
+Zoom | Presentation of results
+
 
 ## Prizes
 There will be prizes for the best/most interesting solutions. Details will be provided. 
