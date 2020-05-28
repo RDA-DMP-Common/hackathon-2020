@@ -67,7 +67,7 @@ Community will have two weeks to vote for the best and most interesting submissi
 * Grand finale 
 * Presentation of results by each group
 * Discussion 
-* [via Zoom at 4:00am ADT, 5:00am PDT, 8:00am EDT, 1:00pm BST, 2:00pm CEST, 3:00pm EEST, 9:00pm JST, 9:30pm ACST, 10:00pm AEST](https://us02web.zoom.us/j/83129062602?pwd=bXJidHVSTVV0OUxqSk9lOVhyUFpNUT09)
+* [via Zoom at 5:00am ADT, 6:00am PDT, 9:00am EDT, 2:00pm BST, 3:00pm CEST, 4:00pm EEST, 10:00pm JST, 10:30pm ACST, 11:00pm AEST](https://us02web.zoom.us/j/83129062602?pwd=bXJidHVSTVV0OUxqSk9lOVhyUFpNUT09) *updated*
 
 ## Communication 
 
