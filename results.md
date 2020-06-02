@@ -6,7 +6,7 @@ Table below presents a list of teams, topics they dealt with and links to the wo
 
 Team | Topic | Links
 -|-|-
-[The Unaturals](#the-unaturals) | New version of the DCSO (DMP Common Standard Ontology) | [slides]()
+[The Unaturals](#the-unaturals) | New version of the DCSO (DMP Common Standard Ontology) | [slides](https://docs.google.com/document/d/1myi15bEMGkEz6K4-qDw22Y_97FqQ2jPC-bj8Ln6_WBM/edit#heading=h.igx5kbelw13c)
 [maDMP Link](#madmp-link) | Integrating a Converis CRIS/RIMS with DMPRoadmap and Export/Import maDMP from Figshare | [results]()
 [DSW](#dsw) | Export/import of maDMPs from/to Data Stewardship Wizard | [report](https://docs.google.com/document/d/1wTGz_d4NJzxoB-Ibpt_DGXPrJYv1YCtgiCQYtpMbiwY/edit#heading=h.gzh3jb54x1kz)
 [The Datatypists](#the-datatypists) | Make EasyDMP compatible with RDA DMP Common Standard | [results]()
