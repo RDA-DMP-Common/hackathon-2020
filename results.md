@@ -6,14 +6,18 @@ Table below presents a list of teams, topics they dealt with and links to the wo
 
 Team | Topic | Links
 -|-|-
-[The Unaturals](#The_Unaturals) | New version of the DCSO (DMP Common Standard Ontology) | [slides]()
+[The Unaturals](#The Unaturals) | New version of the DCSO (DMP Common Standard Ontology) | [slides]()
 [maDMP-Link](#maDMP-Link) | Integrating a Converis CRIS/RIMS with DMPRoadmap and Export/Import maDMP from Figshare | [results]()
-[DSW](#DSW) | Export/import of maDMPs from/to Data Stewardship Wizard | [results](https://docs.google.com/document/d/1wTGz_d4NJzxoB-Ibpt_DGXPrJYv1YCtgiCQYtpMbiwY/edit#heading=h.gzh3jb54x1kz)
+[DSW](#DSW) | Export/import of maDMPs from/to Data Stewardship Wizard | [report](https://docs.google.com/document/d/1wTGz_d4NJzxoB-Ibpt_DGXPrJYv1YCtgiCQYtpMbiwY/edit#heading=h.gzh3jb54x1kz)
 [The Datatypists](#The_Datatypists) | Make EasyDMP compatible with RDA DMP Common Standard | [results]()
 [InsTmaDMP](#InsTmaDMP) | Aligning institution RDM to maDMP Common Standard | [results]()
-[DMP Exchange](#DMP_Exchange) | Exchange DMPs between DMP Tools using the RDA Common Standard | [results](https://docs.google.com/document/d/1AOpCpetQLZNPFr0aC2UqJG9AzYOR3b2x/edit#)
-RDMO|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0yrQz1G-SM7SrxWmJ2FyID8BKOORGaUYVvN7B7vFM/edit#slide=id.p)
-
+[TigTag](#TigTag) | Mapping of maDMP standard to funder templates | [report](https://docs.google.com/document/d/1RdIvlSdHisXFhXMbB0tCKI58_X-oKEMspAwJP91LW6c/edit#heading=h.igx5kbelw13c)
+[DMP Exchange](#DMP_Exchange) | Exchange DMPs between DMP Tools using the RDA Common Standard | [report](https://docs.google.com/document/d/1AOpCpetQLZNPFr0aC2UqJG9AzYOR3b2x/edit#)
+[Something](#Something) | maDMP integration with project data management workflow | [slides](https://docs.google.com/presentation/d/1cqs2Njw_b6BPwxul4E5Sd6JW0B0zAPRzNn6gqG-J4L4/edit#slide=id.g87bfabc510_0_5)
+[DMP-InvenioRDM](#DMP-InvenioRDM) | maDMP integration into InvenioRDM | [results]()
+[RDMO](#RDMO)|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0yrQz1G-SM7SrxWmJ2FyID8BKOORGaUYVvN7B7vFM/edit#slide=id.p)
+[DMP Ninjas](#DMP Ninjas) | Import/Export maDMPs from Argos/OpenDMP | [results]()
+[Fancycatmeme](#Fancycatmeme) | maDMP integration with Research Data Connectome Data Pipeline | [results](https://docs.google.com/document/d/1oMyArI3xTALO6fi3xYdMmO9LoHqJE9LFKqWYTn3K5XY/edit#heading=h.dgycph44apr7)
 
 
 
@@ -34,19 +38,19 @@ RDMO|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0
 * Ya'qub Ebrahim	
 * Peter Neish	(University of Melbourne)
 * Joakim Philipson (Stockholm University)
-* Brian Riley	(DMPTool/Roadmap/University of California)
+* Brian Riley	(DMPRoadmap - California Digital Library)
 * Lyle Winton (University of Melbourne)
 
 ### DSW
-* Marek Suchánek (FIT CTU, DSW)
-* Rob Hooft (DTL / VU Amsterdam)
-* Robert Pergl	
+* Marek Suchánek (FIT CTU, Data Stewardship Wizard)
+* Rob Hooft (DTL / VU Amsterdam / Data Stewardship Wizard)
+* Robert Pergl (Data Stewardship Wizard)
 * Kristina Hettne	(Leiden University Libraries, Centre for Digital Scholarship)
 * António Terra 
 * Martin Pejcoch
 
 ### The Datatypists	
-* Hanne Moa (Uninett)
+* Hanne Moa (Uninett / EasyDMP)
 * Adil Hasan (Uninett Sigma2)
 * Joakim Philipson (Stockholm University)
 
@@ -59,10 +63,19 @@ RDMO|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0
 * Susana Barbosa	
 * Ângela Lomba
 
+### TigTag
+* João Cardoso (RDA Portugal)
+* Sarah Jones	(DMPRoadmap - Digital Curation Centre)
+* Tomasz Miksa (RDA Austria)
+* Adil Hasan (Uninett Sigma2)
+* Maria Praetzellis	(DMPRoadmap - California Digital Library)
+* Paulette Lieby (Institut France Bioinformatique)
+* Elli Papadopoulou	(OpenDMP / Argos)
+* Kerstin Gierend (Medizinische Fakultät Mannheim, Universität Heidelberg)
 
 ### DMP Exchange
 * Benjamin Faure (DMPRoadmap - Institut de l'Information Scientifique et Technique)
-* Rob Hooft (Digital Stewardship Wizard)
+* Rob Hooft (Data Stewardship Wizard)
 * Sarah Jones (DMPRoadmap - Digital Curation Centre)
 * Georgios Kakaletris (OpenDMP)
 * Hanne Moa (EasyDMP)
@@ -70,13 +83,40 @@ RDMO|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0
 * Tom Renner (Haplo)
 * Brian Riley (DMPRoadmap - California Digital Library)
 * Sam Rust (DMPRoadmap - Digital Curation Centre)
-* Marek Suchánek (Digital Stewardship Wizard)
+* Marek Suchánek (Data Stewardship Wizard)
 * Diamantis Tziotzios (OpenDMP)
 
+### Something
+* Adil Hasan	(Uninett Sigma2)
+* Anne Fouilloux (UiO)
+* Christine Jacquemot	(DMP OPIDoR / Inist-CNRS France)
+
+### DMP-InvenioRDM
+* Mojib Wali (TUG)
+* Nikita Lvov	(TUG)
+* Ilire Hasani-Mavriqi (TUG)
+* Christoph Ladurner (TUG)
+* Justine Vandendorpe (ZB MED - Information Centre for Life ScienImport/Export maDMPs from Argos/OpenDMPces)
+* Niklas Zimmer (UCT)
+
 ### RDMO Team
-* Jochen Klar
+* Jochen Klar (RDMO)
 * Olaf Michaelis
 * Janine Straka
 * Ulrike Wuttke
-* Robin Rothe
+* Robin Rothe (ZB MED - Information Centre for Life Sciences)
 
+### DMP Ninjas
+* Diamadis Tziotziosv (OpenDMP / Argos)
+* Georgios Kakaletris	(OpenDMP / Argos)
+* Georgios Kalabokis (OpenDMP / Argos)
+* Elli Papadopoulou	(OpenDMP / Argos)
+* Adil Hasan (Uninett Sigma2)	
+
+### Fancycatmeme	
+* Sebastian Sigloch	(SWITCH)
+* Laura Rettig (eXascale Infolab)
+* Kurt Baumann (FORS)
+* Irena Vipavc Brvar (ADP / CESSDA; RDA Node SI)
+* Bojana Tasic (FORS)
+* Christine Jacquemot	(DMP OPIDoR / Inist-CNRS France)
