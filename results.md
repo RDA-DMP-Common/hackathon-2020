@@ -6,7 +6,7 @@ Table below presents a list of teams, topics they dealt with and links to the wo
 
 Team | Topic | Links
 -|-|-
-[The Unaturals](#The Unaturals) | New version of the DCSO (DMP Common Standard Ontology) | [slides]()
+[The Unaturals](#The_Unaturals) | New version of the DCSO (DMP Common Standard Ontology) | [slides]()
 [maDMP-Link](#maDMP-Link) | Integrating a Converis CRIS/RIMS with DMPRoadmap and Export/Import maDMP from Figshare | [results]()
 [DSW](#DSW) | Export/import of maDMPs from/to Data Stewardship Wizard | [report](https://docs.google.com/document/d/1wTGz_d4NJzxoB-Ibpt_DGXPrJYv1YCtgiCQYtpMbiwY/edit#heading=h.gzh3jb54x1kz)
 [The Datatypists](#The_Datatypists) | Make EasyDMP compatible with RDA DMP Common Standard | [results]()
@@ -16,7 +16,7 @@ Team | Topic | Links
 [Something](#Something) | maDMP integration with project data management workflow | [slides](https://docs.google.com/presentation/d/1cqs2Njw_b6BPwxul4E5Sd6JW0B0zAPRzNn6gqG-J4L4/edit#slide=id.g87bfabc510_0_5)
 [DMP-InvenioRDM](#DMP-InvenioRDM) | maDMP integration into InvenioRDM | [results]()
 [RDMO](#RDMO)|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0yrQz1G-SM7SrxWmJ2FyID8BKOORGaUYVvN7B7vFM/edit#slide=id.p)
-[DMP Ninjas](#DMP Ninjas) | Import/Export maDMPs from Argos/OpenDMP | [results]()
+[DMP Ninjas](#DMP_Ninjas) | Import/Export maDMPs from Argos/OpenDMP | [results]()
 [Fancycatmeme](#Fancycatmeme) | maDMP integration with Research Data Connectome Data Pipeline | [results](https://docs.google.com/document/d/1oMyArI3xTALO6fi3xYdMmO9LoHqJE9LFKqWYTn3K5XY/edit#heading=h.dgycph44apr7)
 
 
@@ -32,7 +32,7 @@ Team | Topic | Links
 * Daniel Faria
 * Christine Jacquemot (DMP OPIDoR / Inist-CNRS France)
 
-### maDMP-Link	
+### maDMP-Link
 * Niklas Zimmer	
 * Norman Smith	
 * Ya'qub Ebrahim	
@@ -49,7 +49,7 @@ Team | Topic | Links
 * António Terra 
 * Martin Pejcoch
 
-### The Datatypists	
+### The Datatypists
 * Hanne Moa (Uninett / EasyDMP)
 * Adil Hasan (Uninett Sigma2)
 * Joakim Philipson (Stockholm University)
@@ -113,7 +113,7 @@ Team | Topic | Links
 * Elli Papadopoulou	(OpenDMP / Argos)
 * Adil Hasan (Uninett Sigma2)	
 
-### Fancycatmeme	
+### Fancycatmeme
 * Sebastian Sigloch	(SWITCH)
 * Laura Rettig (eXascale Infolab)
 * Kurt Baumann (FORS)
