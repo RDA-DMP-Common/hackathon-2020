@@ -15,7 +15,7 @@ Team | Topic | Links
 [DMP Exchange](#dmp-exchange) | Exchange DMPs between DMP Tools using the RDA Common Standard | [report](https://docs.google.com/document/d/1AOpCpetQLZNPFr0aC2UqJG9AzYOR3b2x/edit#)
 [Something](#something) | maDMP integration with project data management workflow | [slides](https://docs.google.com/presentation/d/1cqs2Njw_b6BPwxul4E5Sd6JW0B0zAPRzNn6gqG-J4L4/edit#slide=id.g87bfabc510_0_5)
 [DMP InvenioRDM](#dmp-inveniordm) | maDMP integration into InvenioRDM | [results]()
-[RDMO](#rdmo)|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0yrQz1G-SM7SrxWmJ2FyID8BKOORGaUYVvN7B7vFM/edit#slide=id.p)
+[RDMO](#rdmo-team)|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0yrQz1G-SM7SrxWmJ2FyID8BKOORGaUYVvN7B7vFM/edit#slide=id.p)
 [DMP Ninjas](#dmp-ninjas) | Import/Export maDMPs from Argos/OpenDMP | [results]()
 [Fancycatmeme](#fancycatmeme) | maDMP integration with Research Data Connectome Data Pipeline | [results](https://docs.google.com/document/d/1oMyArI3xTALO6fi3xYdMmO9LoHqJE9LFKqWYTn3K5XY/edit#heading=h.dgycph44apr7)
 
