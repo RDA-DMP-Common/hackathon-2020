@@ -9,6 +9,7 @@ Team | Topic | Links
 [Test Team](#Test_Team) | test| [slides]()
 [DMP Exchange](#DMP_Exchange) | Exchange DMPs between DMP Tools using the RDA Common Standard | [results](https://docs.google.com/document/d/1AOpCpetQLZNPFr0aC2UqJG9AzYOR3b2x/edit#)
 RDMO|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0yrQz1G-SM7SrxWmJ2FyID8BKOORGaUYVvN7B7vFM/edit#slide=id.p)
+The Datatypists | Add data types and design suppor for datasets | https://docs.google.com/document/d/1l8x3bQ52riVUdq9-DkuAwFDgPvLmEF3GmqvQkihp_oY/edit?usp=sharing
 
 
 
@@ -41,3 +42,7 @@ RDMO|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0
 * Ulrike Wuttke
 * Robin Rothe
 
+### The Datatypists, team
+* hanne Moa
+* Joakim Philipson
+* Adil hasan
