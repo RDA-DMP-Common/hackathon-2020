@@ -6,25 +6,25 @@ Table below presents a list of teams, topics they dealt with and links to the wo
 
 Team | Topic | Links
 -|-|-
-[The Unaturals](#The_Unaturals) | New version of the DCSO (DMP Common Standard Ontology) | [slides]()
-[maDMP-Link](#maDMP-Link) | Integrating a Converis CRIS/RIMS with DMPRoadmap and Export/Import maDMP from Figshare | [results]()
+[The Unaturals](#the-Unaturals) | New version of the DCSO (DMP Common Standard Ontology) | [slides]()
+[maDMP Link](#maDMP-Link) | Integrating a Converis CRIS/RIMS with DMPRoadmap and Export/Import maDMP from Figshare | [results]()
 [DSW](#DSW) | Export/import of maDMPs from/to Data Stewardship Wizard | [report](https://docs.google.com/document/d/1wTGz_d4NJzxoB-Ibpt_DGXPrJYv1YCtgiCQYtpMbiwY/edit#heading=h.gzh3jb54x1kz)
-[The Datatypists](#The_Datatypists) | Make EasyDMP compatible with RDA DMP Common Standard | [results]()
+[The Datatypists](#the-Datatypists) | Make EasyDMP compatible with RDA DMP Common Standard | [results]()
 [InsTmaDMP](#InsTmaDMP) | Aligning institution RDM to maDMP Common Standard | [results]()
 [TigTag](#TigTag) | Mapping of maDMP standard to funder templates | [report](https://docs.google.com/document/d/1RdIvlSdHisXFhXMbB0tCKI58_X-oKEMspAwJP91LW6c/edit#heading=h.igx5kbelw13c)
-[DMP Exchange](#DMP_Exchange) | Exchange DMPs between DMP Tools using the RDA Common Standard | [report](https://docs.google.com/document/d/1AOpCpetQLZNPFr0aC2UqJG9AzYOR3b2x/edit#)
+[DMP Exchange](#dmp-Exchange) | Exchange DMPs between DMP Tools using the RDA Common Standard | [report](https://docs.google.com/document/d/1AOpCpetQLZNPFr0aC2UqJG9AzYOR3b2x/edit#)
 [Something](#Something) | maDMP integration with project data management workflow | [slides](https://docs.google.com/presentation/d/1cqs2Njw_b6BPwxul4E5Sd6JW0B0zAPRzNn6gqG-J4L4/edit#slide=id.g87bfabc510_0_5)
-[DMP-InvenioRDM](#DMP-InvenioRDM) | maDMP integration into InvenioRDM | [results]()
-[RDMO](#RDMO)|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0yrQz1G-SM7SrxWmJ2FyID8BKOORGaUYVvN7B7vFM/edit#slide=id.p)
-[DMP Ninjas](#DMP_Ninjas) | Import/Export maDMPs from Argos/OpenDMP | [results]()
-[Fancycatmeme](#Fancycatmeme) | maDMP integration with Research Data Connectome Data Pipeline | [results](https://docs.google.com/document/d/1oMyArI3xTALO6fi3xYdMmO9LoHqJE9LFKqWYTn3K5XY/edit#heading=h.dgycph44apr7)
+[DMP InvenioRDM](#dmp-InvenioRDM) | maDMP integration into InvenioRDM | [results]()
+[RDMO](#rdmo)|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0yrQz1G-SM7SrxWmJ2FyID8BKOORGaUYVvN7B7vFM/edit#slide=id.p)
+[DMP Ninjas](#dmp-Ninjas) | Import/Export maDMPs from Argos/OpenDMP | [results]()
+[Fancycatmeme](#fancycatmeme) | maDMP integration with Research Data Connectome Data Pipeline | [results](https://docs.google.com/document/d/1oMyArI3xTALO6fi3xYdMmO9LoHqJE9LFKqWYTn3K5XY/edit#heading=h.dgycph44apr7)
 
 
 
 
 ## Teams and their members
 
-### The Unaturals
+### the-Unaturals
 * João Cardoso (RDA Portugal)
 * Fajar J. Ekaputra (TU Wien)	
 * Leyla Garcia (ZB MED Information Centre for Life Sciences)
