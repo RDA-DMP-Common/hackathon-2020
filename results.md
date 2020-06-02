@@ -7,6 +7,7 @@ Table below presents a list of teams, topics they dealt with and links to the wo
 Team | Topic | Links
 -|-|-
 [Test Team](#Test_Team) | test| [slides]()
+RDMO|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0yrQz1G-SM7SrxWmJ2FyID8BKOORGaUYVvN7B7vFM/edit#slide=id.p)
 
 
 
@@ -16,3 +17,10 @@ Team | Topic | Links
 ### Test Team
 * user 1
 * user 2
+
+### RDMO Team
+* Jochen Klar
+* Olaf Michaelis
+* Janine Straka
+* Ulrike Wuttke
+* Robin Rothe
