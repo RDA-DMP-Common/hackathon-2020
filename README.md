@@ -18,7 +18,7 @@ The hackathon will take place on 27-28 May 2020. Registration of teams and topic
 ## Results
 [Overview of results, includng video recording, slides, etc. can be found here](https://github.com/RDA-DMP-Common/hackathon-2020/blob/master/results.md)
 
-
+[**Please vote!**](https://www.surveymonkey.com/r/ZN9CVV9)
 
 ## Important Dates 
 
@@ -50,7 +50,7 @@ Summarise what you managed to create. Provide links to resources, demos, screenc
 Present your result in an online videoconference call on 29th May. Everyone will be free to participate as the viewer.
 
 ### 7.       Vote 
-Community will have two weeks to vote for the best and most interesting submissions. The winners will recieve a small prize. 
+Community will have two weeks to [vote](https://www.surveymonkey.com/r/ZN9CVV9) for the best and most interesting submissions. The winners will recieve a small prize. 
 
 ## Agenda
 ### Day 1 - 27 May 2020 
