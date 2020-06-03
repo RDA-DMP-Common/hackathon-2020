@@ -6,9 +6,9 @@ Table below presents a list of teams, topics they dealt with and links to the wo
 
 Team | Topic | Links
 -|-|-
-[The Unaturals](#the-unaturals) | New version of the DCSO (DMP Common Standard Ontology) | [slides](https://docs.google.com/document/d/1myi15bEMGkEz6K4-qDw22Y_97FqQ2jPC-bj8Ln6_WBM/edit#heading=h.igx5kbelw13c)
-[maDMP Link](#madmp-link) | Integrating a Converis CRIS/RIMS with DMPRoadmap and Export/Import maDMP from Figshare | [results]()
-[DSW](#dsw) | Export/import of maDMPs from/to Data Stewardship Wizard | [report](https://docs.google.com/document/d/1wTGz_d4NJzxoB-Ibpt_DGXPrJYv1YCtgiCQYtpMbiwY/edit#heading=h.gzh3jb54x1kz)
+[The Unaturals](#the-unaturals) | New version of the DCSO (DMP Common Standard Ontology) | [DCSO Repository](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard/tree/master/ontologies), [Issue Document](https://drive.google.com/open?id=1myi15bEMGkEz6K4-qDw22Y_97FqQ2jPC-bj8Ln6_WBM), [slides](https://drive.google.com/file/d/1Dyek0sg3x22_kBU4VAc6d7ahXBkcRHzj/view?usp=sharing)
+[maDMP Link](#madmp-link) | Integrating a Converis CRIS/RIMS with DMPRoadmap and Export/Import maDMP from Figshare | [results](https://gist.github.com/peterneish/92b59a90f5e05096c3709669f459c749)
+[DSW](#dsw) | Export/import of maDMPs from/to Data Stewardship Wizard | [report](https://docs.google.com/document/d/1wTGz_d4NJzxoB-Ibpt_DGXPrJYv1YCtgiCQYtpMbiwY/edit#heading=h.gzh3jb54x1kz), [slides](https://docs.google.com/presentation/d/1h7iTS9gW8A-bOkSjR3qFNPzaU0NQfGJFRtCHZuC78FY/edit)
 [The Datatypists](#the-datatypists) | Make EasyDMP compatible with RDA DMP Common Standard | [results]()
 [InsTmaDMP](#instmadmp) | Aligning institution RDM to maDMP Common Standard | [results]()
 [TigTag](#tigtag) | Mapping of maDMP standard to funder templates | [report](https://docs.google.com/document/d/1RdIvlSdHisXFhXMbB0tCKI58_X-oKEMspAwJP91LW6c/edit#heading=h.igx5kbelw13c)
@@ -17,7 +17,7 @@ Team | Topic | Links
 [DMP InvenioRDM](#dmp-inveniordm) | maDMP integration into InvenioRDM | [results]()
 [RDMO](#rdmo-team)|maDMP export from RDMO|[slides](https://docs.google.com/presentation/d/17Q0yrQz1G-SM7SrxWmJ2FyID8BKOORGaUYVvN7B7vFM/edit#slide=id.p)
 [DMP Ninjas](#dmp-ninjas) | Import/Export maDMPs from Argos/OpenDMP | [results]()
-[Fancycatmeme](#fancycatmeme) | maDMP integration with Research Data Connectome Data Pipeline | [results](https://docs.google.com/document/d/1oMyArI3xTALO6fi3xYdMmO9LoHqJE9LFKqWYTn3K5XY/edit#heading=h.dgycph44apr7)
+[Fancycatmeme](#fancycatmeme) | maDMP integration with Research Data Connectome Data Pipeline | [article](https://docs.google.com/document/d/1hYmCRdyVV90PK8ffLBT-IPbEmhLVYshxAhWWbvc-ONE/edit#), [slides](https://docs.google.com/presentation/d/1V7XF-1o2IsfMgE3Cwq8oQ5iR0ASDZk_EgllU0X1K53g/edit#slide=id.p)
 
 
 
