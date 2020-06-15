@@ -18,7 +18,6 @@ The hackathon will take place on 27-28 May 2020. Registration of teams and topic
 ## Results
 [Overview of results, includng video recording, slides, etc. can be found here](https://github.com/RDA-DMP-Common/hackathon-2020/blob/master/results.md)
 
-[**Please vote!**](https://www.surveymonkey.com/r/ZN9CVV9)
 
 ## Important Dates 
 
