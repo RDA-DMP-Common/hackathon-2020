@@ -116,7 +116,7 @@ Team | Topic | Links
 ### Fancycatmeme
 * Sebastian Sigloch	(SWITCH)
 * Laura Rettig (eXascale Infolab)
-* Kurt Baumann (FORS)
+* Kurt Baumann (SWITCH)
 * Irena Vipavc Brvar (ADP / CESSDA; RDA Node SI)
 * Bojana Tasic (FORS)
 * Christine Jacquemot	(DMP OPIDoR / Inist-CNRS France)
